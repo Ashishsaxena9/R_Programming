@@ -26,7 +26,7 @@ total_roulette <- sum(roulette_vector)
 # Check if you realized higher total gains in poker than in roulette 
 
 
-if(total_poker > total_roulette)
+total_poker > total_roulette
 
 
 total_poker
